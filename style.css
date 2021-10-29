@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+
+}
+#alien_div
+{
+    background-color: grey;
+    padding: 20px;
+    letter-spacing: 2px;
+
+}
+#author
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    padding: 10px;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 5px rgb(rgb(0, 255, 170) )
+}
+#falsebtn
+{
+height: 100px;
+background-color: rgb(0, 255, 170);
+}
